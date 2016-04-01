@@ -16,7 +16,7 @@
 //
 //
 
-package com.mirasense2.scanditsdk.plugin;
+package com.smartsign.scanditsdk.plugin;
 
 import android.os.Bundle;
 

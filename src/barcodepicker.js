@@ -1,8 +1,8 @@
 
-var ScanOverlay = cordova.require("com.mirasense2.scanditsdk.plugin.ScanOverlay");
-var ScanSettings = cordova.require("com.mirasense2.scanditsdk.plugin.ScanSettings");
-var ScanSession = cordova.require("com.mirasense2.scanditsdk.plugin.ScanSession");
-var Barcode = cordova.require("com.mirasense2.scanditsdk.plugin.Barcode");
+var ScanOverlay = cordova.require("com.smartsign.scanditsdk.plugin.ScanOverlay");
+var ScanSettings = cordova.require("com.smartsign.scanditsdk.plugin.ScanSettings");
+var ScanSession = cordova.require("com.smartsign.scanditsdk.plugin.ScanSession");
+var Barcode = cordova.require("com.smartsign.scanditsdk.plugin.Barcode");
 
 function BarcodePicker(scanSettings) {
 	if (scanSettings instanceof ScanSettings) {

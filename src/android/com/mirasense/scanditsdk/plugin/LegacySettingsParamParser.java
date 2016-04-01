@@ -1,9 +1,9 @@
-package com.mirasense2.scanditsdk.plugin;
+package com.smartsign.scanditsdk.plugin;
 
 import android.os.Bundle;
 import android.util.Log;
 
-import com.mirasense2.scanditsdk.ScanditSDKScanSettings;
+import com.smartsign.scanditsdk.ScanditSDKScanSettings;
 import com.scandit.barcodepicker.ScanSettings;
 import com.scandit.recognition.Barcode;
 import com.scandit.recognition.SymbologySettings;

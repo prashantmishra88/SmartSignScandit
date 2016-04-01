@@ -1,5 +1,5 @@
 
-var Point = cordova.require("com.mirasense2.scanditsdk.plugin.Point");
+var Point = cordova.require("com.smartsign.scanditsdk.plugin.Point");
 
 
 function Quadrilateral(topLeft, topRight, bottomLeft, bottomRight) {

@@ -15,7 +15,7 @@
 //
 //
 
-package com.mirasense2.scanditsdk.plugin;
+package com.smartsign.scanditsdk.plugin;
 
 import android.content.Context;
 import android.content.Intent;
@@ -33,7 +33,7 @@ import com.scandit.barcodepicker.ScanSession;
 import com.scandit.barcodepicker.ScanSettings;
 import com.scandit.barcodepicker.ScanditLicense;
 import com.scandit.barcodepicker.internal.ScanditSDKGlobals;
-import com.mirasense2.scanditsdk.plugin.ScanditSDKResultRelay.ScanditSDKResultRelayCallback;
+import com.smartsign.scanditsdk.plugin.ScanditSDKResultRelay.ScanditSDKResultRelayCallback;
 import com.scandit.base.system.SbSystemUtils;
 import com.scandit.base.util.JSONParseException;
 

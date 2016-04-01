@@ -1,4 +1,4 @@
-package com.mirasense2.scanditsdk.plugin;
+package com.smartsign.scanditsdk.plugin;
 
 import android.app.Activity;
 import android.content.Context;
