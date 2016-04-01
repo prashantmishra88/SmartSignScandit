@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <plugin id="com.smartsign.scanditsdk.plugin" version="4.12.2" xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
   <name>SmartSignBarcodeScanner2</name>
+  <description>This is a plugin test by Prashant Mishra under SmartSign Design Pvt. Ltd.</description>
   <js-module name="Barcode" src="src/barcode.js">
     <clobbers target="Scandit.Barcode"/>
   </js-module>
